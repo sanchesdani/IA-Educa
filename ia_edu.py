@@ -195,7 +195,7 @@ def main():
         #""", unsafe_allow_html=True)
         #st.markdown("""
         #### Como citar a plataforma:
-        #Identificando Vieses em IA. Plataforma de Inteligência Artificial Aplicada à Educação Básica. Versão 2.0, 2024. Disponível em: [URL]. Acesso em: [DATA].""")
+        #Identificando Vieses em IA. Plataforma de Inteligência Artificial Aplicada à Educação Básica. Versão 2.0, 2024. Disponível em: https://aieduca.streamlit.app/. Acesso em: [DATA].""")
     
     # Footer
     st.markdown("---")
