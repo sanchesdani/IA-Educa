@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "title": "Viés no Sistema de Recomendação do YouTube para Conteúdo Educacional",
+    "category": "Plataformas Educacionais",
+    "year": 2019,
+    "description": "Pesquisadores descobriram que o algoritmo de recomendação do YouTube tendia a sugerir vídeos educacionais de ciências exatas principalmente para usuários identificados como homens, enquanto vídeos de humanidades e artes eram mais recomendados para usuárias mulheres, mesmo quando o histórico de visualização era similar.",
+    "bias_type": "Viés de Gênero",
+    "bias_explanation": "O algoritmo aprendeu padrões históricos de visualização que refletiam estereótipos de gênero sobre interesses acadêmicos, perpetuando essas divisões artificiais.",
+    "impact": "Limitou a exposição de estudantes a áreas de conhecimento diversas, potencialmente influenciando escolhas acadêmicas e profissionais baseadas em estereótipos de gênero.",
+    "severity": "Média",
+    "solution": "O YouTube implementou ajustes no algoritmo para reduzir o peso de características demográficas nas recomendações e aumentou a diversidade das sugestões.",
+    "lessons": [
+      "Algoritmos de recomendação podem perpetuar e amplificar vieses sociais existentes",
+      "É importante monitorar regularmente os padrões de recomendação por grupos demográficos",
+      "A diversidade nas recomendações pode ser mais benéfica que a 'personalização' extrema",
+      "Transparência sobre como as recomendações são feitas ajuda usuários a entender o sistema"
+    ],
+    "discussion_questions": [
+      "Como podemos equilibrar personalização com diversidade em sistemas de recomendação?",
+      "Qual o papel dos estereótipos sociais no desenvolvimento de preferências individuais?",
+      "Como educadores podem usar essas informações para orientar estudantes?"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Discriminação Racial em Sistema de Reconhecimento Facial Escolar",
+    "category": "Segurança Escolar",
+    "year": 2020,
+    "description": "Uma rede de escolas nos EUA implementou sistemas de reconhecimento facial para segurança. Após 6 meses, foi identificado que o sistema tinha taxa de erro 10 vezes maior para estudantes negros comparado a estudantes brancos, resultando em falsos positivos que levaram a abordagens disciplinares desnecessárias.",
+    "bias_type": "Viés Racial",
+    "bias_explanation": "Os algoritmos de reconhecimento facial foram treinados com datasets predominantemente compostos por faces de pessoas brancas, resultando em menor acurácia para pessoas de outras etnias.",
+    "impact": "Estudantes negros foram desproporcionalmente submetidos a abordagens disciplinares baseadas em identificações incorretas, criando um ambiente escolar discriminatório e prejudicando o clima de aprendizagem.",
+    "severity": "Alta",
+    "solution": "A rede escolar removeu os sistemas de reconhecimento facial e implementou políticas que proíbem o uso de tecnologias de identificação biométrica até que sejam comprovadamente equitativas.",
+    "lessons": [
+      "Tecnologias aparentemente neutras podem reproduzir e amplificar discriminações raciais",
+      "Testes de equidade devem ser realizados antes da implementação de sistemas",
+      "O impacto desproporcional em grupos minoritários pode ser devastador em ambientes educacionais",
+      "Algumas tecnologias podem não ser apropriadas para uso em escolas, independentemente da acurácia geral"
+    ],
+    "discussion_questions": [
+      "Quando a precisão de uma tecnologia é suficiente para seu uso em educação?",
+      "Como podemos garantir que medidas de segurança não criem ambientes discriminatórios?",
+      "Qual o papel da comunidade escolar na avaliação de novas tecnologias?"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Viés Socioeconômico em Sistema de Avaliação de Redações",
+    "category": "Avaliação Educacional",
+    "year": 2021,
+    "description": "Um sistema de IA desenvolvido para avaliar redações do ENEM mostrou tendência sistemática de dar notas mais baixas para textos que mencionavam realidades de comunidades periféricas, favos, transporte público precário ou trabalho informal, mesmo quando os textos eram bem estruturados e argumentados.",
+    "bias_type": "Viés Socioeconômico",
+    "bias_explanation": "O sistema foi treinado com redações nota máxima que geralmente refletiam experiências de classes sociais mais privilegiadas, fazendo com que experiências de classes populares fossem interpretadas como indicadores de menor qualidade.",
+    "impact": "Estudantes de origem socioeconômica desfavorecida foram sistematicamente prejudicados nas avaliações, perpetuando desigualdades educacionais e limitando oportunidades de acesso ao ensino superior.",
+    "severity": "Alta",
+    "solution": "O sistema foi retirado de operação e uma nova versão foi desenvolvida com conjunto de dados mais diverso e com métricas focadas em estrutura argumentativa independente do conteúdo sociocultural.",
+    "lessons": [
+      "Dados de treinamento devem representar a diversidade socioeconômica dos usuários",
+      "Qualidade textual não deve ser confundida com experiências de classe social",
+      "Sistemas de avaliação automatizada podem perpetuar desigualdades educacionais existentes",
+      "É crucial ter avaliadores humanos diversos participando do desenvolvimento"
+    ],
+    "discussion_questions": [
+      "Como podemos separar qualidade de escrita de privilégio socioeconômico?",
+      "Qual o papel da diversidade sociocultural na avaliação educacional?",
+      "Como sistemas automatizados podem ser mais inclusivos?"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Disparidade de Gênero em Chatbot Educacional de Orientação Vocacional",
+    "category": "Orientação Educacional",
+    "year": 2022,
+    "description": "Um chatbot desenvolvido para orientação vocacional em escolas públicas mostrava padrões claros de direcionamento: sugeria carreiras em STEM (Ciência, Tecnologia, Engenharia, Matemática) 3 vezes mais para estudantes identificados como homens, enquanto carreiras em educação, saúde e serviços sociais eram sugeridas 4 vezes mais para mulheres, independentemente das aptidões demonstradas.",
+    "bias_type": "Viés de Gênero",
+    "bias_explanation": "O sistema incorporou estereótipos de gênero presentes em dados históricos de escolhas profissionais, reforçando divisões artificiais entre carreiras 'masculinas' e 'femininas'.",
+    "impact": "Limitou a exposição de estudantes a diversas possibilidades de carreira, potencialmente influenciando decisões acadêmicas baseadas em estereótipos em vez de interesses e aptidões reais.",
+    "severity": "Média",
+    "solution": "O sistema foi reprogramado para focar exclusivamente em aptidões, interesses e desempenho acadêmico, removendo gênero como variável nas recomendações e incluindo exemplos diversos de profissionais em cada área.",
+    "lessons": [
+      "Orientação vocacional automatizada pode perpetuar segregação profissional por gênero",
+      "Dados históricos de escolhas profissionais refletem barreiras sociais, não preferências naturais",
+      "Sistemas de orientação devem expandir, não limitar, o horizonte de possibilidades dos estudantes",
+      "Representatividade diversa em exemplos profissionais é fundamental"
+    ],
+    "discussion_questions": [
+      "Como podemos usar dados históricos sem perpetuar suas limitações?",
+      "Qual o impacto dos estereótipos de gênero nas escolhas acadêmicas?",
+      "Como sistemas de IA podem promover equidade em vez de reproduzir desigualdades?"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Viés Linguístico em Sistema de Correção Automática",
+    "category": "Ferramentas de Ensino",
+    "year": 2023,
+    "description": "Um sistema de correção automática amplamente usado em escolas brasileiras mostrou desempenho significativamente inferior para textos escritos por alunos de regiões nordestinas, interpretando construções linguísticas regionais como erros gramaticais, mesmo quando essas construções seguiam padrões válidos do português brasileiro.",
+    "bias_type": "Viés Cultural",
+    "bias_explanation": "O sistema foi treinado predominantemente com textos do português padrão do centro-sul do país, não reconhecendo adequadamente as variações linguísticas regionais legítimas.",
+    "impact": "Alunos de certas regiões foram sistematicamente penalizados por usar variações linguísticas de suas comunidades, potencialmente prejudicando sua autoestima linguística e desempenho acadêmico.",
+    "severity": "Média",
+    "solution": "O sistema foi atualizado com corpus linguístico mais representativo das variações regionais do português brasileiro e passou a distinguir entre erros gramaticais e variações dialetais.",
+    "lessons": [
+      "Diversidade linguística deve ser considerada no desenvolvimento de ferramentas educacionais",
+      "Variações regionais são parte legítima da riqueza linguística, não erros a serem corrigidos",
+      "Sistemas de correção podem inadvertidamente promover preconceito linguístico",
+      "Representatividade geográfica nos dados de treinamento é essencial"
+    ],
+    "discussion_questions": [
+      "Como podemos valorizar a diversidade linguística em ferramentas educacionais?",
+      "Qual o impacto do preconceito linguístico no aprendizado?",
+      "Como tecnologias podem ser mais inclusivas culturalmente?"
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "title": "Descobrindo Vieses em IA: Uma Investigação Científica",
+    "objective": "Desenvolver o pensamento crítico dos alunos sobre tecnologia e capacitá-los a identificar e questionar vieses em sistemas de inteligência artificial.",
+    "description": "Esta aula introduz o conceito de vieses em IA através de atividades práticas e discussões, ajudando alunos a entender como preconceitos humanos podem ser incorporados em sistemas tecnológicos.",
+    "target_grade": "Ensino Médio",
+    "suggested_duration": 90,
+    "materials": [
+      "Computador/tablet com acesso à internet",
+      "Projetor ou tela para apresentações",
+      "Fichas com cenários de IA",
+      "Quadro ou flipchart",
+      "Marcadores coloridos"
+    ],
+    "skills": [
+      "Pensamento crítico",
+      "Análise de dados",
+      "Discussão e argumentação",
+      "Consciência digital",
+      "Ética tecnológica"
+    ],
+    "activities": [
+      {
+        "name": "Aquecimento: Teste dos Preconceitos",
+        "duration": "15 min",
+        "description": "Os alunos respondem a um quiz rápido sobre associações automáticas (ex: profissões e gêneros) para reconhecer seus próprios vieses inconscientes."
+      },
+      {
+        "name": "Exploração: O que é IA?",
+        "duration": "20 min",
+        "description": "Discussão em grupos sobre onde encontramos IA no dia a dia e como ela toma decisões, seguida de apresentação dos grupos."
+      },
+      {
+        "name": "Investigação: Casos Reais de Viés",
+        "duration": "25 min",
+        "description": "Análise em pequenos grupos de casos reais de vieses em IA, com cada grupo investigando um caso diferente e preparando uma apresentação."
+      },
+      {
+        "name": "Aplicação: Detectando Vieses",
+        "duration": "20 min",
+        "description": "Atividade prática onde alunos analisam cenários hipotéticos e identificam possíveis vieses, desenvolvendo estratégias de mitigação."
+      },
+      {
+        "name": "Reflexão e Síntese",
+        "duration": "10 min",
+        "description": "Discussão final sobre como se proteger de vieses algorítmicos e o papel dos jovens na criação de tecnologia mais justa."
+      }
+    ],
+    "assessment": "Avaliação formativa através de participação nas discussões, qualidade das análises de caso e capacidade de identificar vieses nos cenários apresentados.",
+    "extensions": [
+      "Pesquisa em casa sobre empresas que estão combatendo vieses em IA",
+      "Criação de um 'manual de detecção de vieses' para colegas",
+      "Entrevista com profissionais de tecnologia sobre este tema"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "IA e Justiça: Construindo Algoritmos Mais Equitativos",
+    "objective": "Compreender como vieses se manifestam em algoritmos e explorar soluções para criar sistemas mais justos e inclusivos.",
+    "description": "Aula avançada que explora aspectos técnicos e éticos dos vieses algorítmicos, incluindo atividades hands-on de análise de dados e propostas de soluções.",
+    "target_grade": "Ensino Superior",
+    "suggested_duration": 120,
+    "materials": [
+      "Laptops com Python/Jupyter instalado",
+      "Datasets para análise",
+      "Acesso a ferramentas online de análise",
+      "Artigos científicos sobre o tema",
+      "Apresentação interativa"
+    ],
+    "skills": [
+      "Análise quantitativa",
+      "Programação básica",
+      "Interpretação de dados",
+      "Ética aplicada",
+      "Resolução de problemas complexos"
+    ],
+    "activities": [
+      {
+        "name": "Revisão Conceitual",
+        "duration": "15 min",
+        "description": "Discussão dos tipos de vieses (representação, confirmação, seleção) com exemplos concretos e definições precisas."
+      },
+      {
+        "name": "Análise de Dados Prática",
+        "duration": "40 min",
+        "description": "Uso de ferramentas simples para analisar um dataset real e identificar padrões que indicam vieses, calculando métricas de equidade."
+      },
+      {
+        "name": "Estudo de Caso Aprofundado",
+        "duration": "35 min",
+        "description": "Análise detalhada de um caso real (ex: viés em contratação), incluindo contexto, impacto e estratégias de solução implementadas."
+      },
+      {
+        "name": "Workshop de Soluções",
+        "duration": "25 min",
+        "description": "Trabalho em equipes para desenvolver propostas concretas de como mitigar vieses em um cenário específico."
+      },
+      {
+        "name": "Apresentação e Debate",
+        "duration": "20 min",
+        "description": "Cada equipe apresenta suas propostas e a turma debate a viabilidade e eficácia das soluções apresentadas."
+      }
+    ],
+    "assessment": "Avaliação baseada na qualidade da análise de dados, criatividade das propostas de solução e participação nos debates.",
+    "extensions": [
+      "Implementação de uma solução proposta usando código",
+      "Análise de políticas corporativas sobre IA ética",
+      "Participação em competições de IA ética"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Vieses na Escola: Como a IA Afeta Nossa Educação",
+    "objective": "Identificar e discutir como vieses em sistemas de IA podem impactar a experiência educacional dos alunos.",
+    "description": "Aula focada no contexto educacional, explorando como ferramentas de IA usadas na escola podem conter vieses e afetar a aprendizagem.",
+    "target_grade": "Ensino Fundamental II",
+    "suggested_duration": 60,
+    "materials": [
+      "Exemplos de ferramentas educacionais com IA",
+      "Vídeos curtos sobre o tema",
+      "Fichas de atividades",
+      "Material para cartazes",
+      "Acesso a aplicativos educacionais"
+    ],
+    "skills": [
+      "Consciência digital",
+      "Pensamento crítico básico",
+      "Expressão oral",
+      "Trabalho colaborativo",
+      "Autoconhecimento"
+    ],
+    "activities": [
+      {
+        "name": "Exploração: IA na Nossa Escola",
+        "duration": "15 min",
+        "description": "Levantamento coletivo de onde os alunos encontram IA na escola (apps educativos, sistemas de recomendação, etc.)."
+      },
+      {
+        "name": "Demonstração: Viés em Ação",
+        "duration": "20 min",
+        "description": "Demonstração prática usando uma ferramenta real para mostrar como diferentes inputs podem gerar outputs enviesados."
+      },
+      {
+        "name": "Discussão: E se fosse comigo?",
+        "duration": "15 min",
+        "description": "Conversa sobre como os alunos se sentiriam se fossem tratados injustamente por uma máquina e como isso poderia afetar seu aprendizado."
+      },
+      {
+        "name": "Criação: Manual do Usuário Consciente",
+        "duration": "10 min",
+        "description": "Criação colaborativa de dicas para usar tecnologia educacional de forma mais consciente e crítica."
+      }
+    ],
+    "assessment": "Observação da participação nas discussões e da compreensão demonstrada através das contribuições para o manual.",
+    "extensions": [
+      "Entrevista com professores sobre uso de tecnologia",
+      "Teste de diferentes apps educacionais",
+      "Criação de um vídeo sobre o tema para outros alunos"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Projeto Interdisciplinar: IA, Sociedade e Futuro",
+    "objective": "Integrar conhecimentos de múltiplas disciplinas para compreender o impacto social dos vieses em IA e propor soluções inovadoras.",
+    "description": "Projeto de longo prazo que combina elementos de tecnologia, ética, sociologia e comunicação para uma compreensão holística do tema.",
+    "target_grade": "Ensino Médio",
+    "suggested_duration": 180,
+    "materials": [
+      "Recursos de pesquisa online",
+      "Ferramentas de apresentação",
+      "Material para protótipos",
+      "Acesso a especialistas (videoconferência)",
+      "Plataformas de colaboração online"
+    ],
+    "skills": [
+      "Pesquisa acadêmica",
+      "Síntese de informações",
+      "Apresentação pública",
+      "Design thinking",
+      "Colaboração interdisciplinar"
+    ],
+    "activities": [
+      {
+        "name": "Formação de Grupos e Escolha de Temas",
+        "duration": "30 min",
+        "description": "Organização dos grupos interdisciplinares e seleção de aspectos específicos dos vieses em IA para investigação profunda."
+      },
+      {
+        "name": "Fase de Pesquisa e Investigação",
+        "duration": "60 min",
+        "description": "Pesquisa aprofundada sobre o tema escolhido, incluindo revisão de literatura, análise de casos e coleta de dados primários."
+      },
+      {
+        "name": "Desenvolvimento de Propostas",
+        "duration": "45 min",
+        "description": "Criação de propostas inovadoras para abordar os problemas identificados, incluindo prototipagem de soluções quando aplicável."
+      },
+      {
+        "name": "Preparação de Apresentações",
+        "duration": "30 min",
+        "description": "Desenvolvimento de apresentações multimídia que comuniquem efetivamente os achados e propostas para audiência diversa."
+      },
+      {
+        "name": "Feira de Projetos e Avaliação",
+        "duration": "15 min",
+        "description": "Apresentação pública dos projetos com participação da comunidade escolar e avaliação por pares."
+      }
+    ],
+    "assessment": "Avaliação multidimensional incluindo qualidade da pesquisa, inovação das propostas, eficácia da comunicação e colaboração em equipe.",
+    "extensions": [
+      "Submissão para feiras de ciências regionais",
+      "Publicação de artigos no jornal da escola",
+      "Implementação piloto de soluções propostas"
+    ]
+  }
+]
