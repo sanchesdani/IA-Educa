@@ -177,7 +177,7 @@ def main():
         """, unsafe_allow_html=True)
         st.markdown("""
         #### Como citar a plataforma:
-        Identificando Vieses em IA. Plataforma de Inteligência Artificial Aplicada à Educação Básica. Versão Atualizada, 2024. Disponível em: [URL]. Acesso em:16 jun 2025.""")
+        Identificando Vieses em IA. Plataforma de Inteligência Artificial Aplicada à Educação Básica. Versão Atualizada, 2024. Disponível em: <a href= "https://aieduca.streamlit.app/" </a>. Acesso em:16 jun 2025.""")
         
         # Lista de páginas simplificada
         #st.page_link("ia_edu.py", label="🏠 Página Inicial")
